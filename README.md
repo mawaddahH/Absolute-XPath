@@ -29,13 +29,15 @@ Add them as a library in the classpath of the project
 - _click-reight on the file project >Build path > configure Bild path > Java Build Path > Libraries > classpath > add external JARs > Apply and close_.
 
 ### Third:
-Open the website , Select the Web Element (Register button) and add in the code
+Open the website, Select the Web Element (Register button) then add it to the code.
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48597284/181113171-f498dd54-d37b-4d48-95ff-10b8f7fe132d.png" width=60% height=60%>
 </p>
 
 
 ## Code Screenshots:
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48597284/181113075-cfae47ed-85e7-4550-b202-048f27c68062.png" width=50% height=50%>
 </p>
@@ -47,10 +49,7 @@ Open the website , Select the Web Element (Register button) and add in the code
 
 <img src="https://user-images.githubusercontent.com/48597284/181115484-7b0ee948-87c1-4276-9238-2eb6f11c3086.png" width=60% height=60%>
 
-
 https://user-images.githubusercontent.com/48597284/181116975-511b1bea-0836-4516-b3da-91748210a40d.mp4
-
-
 </p>
 
 
