@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-27T00:29:03 AST" name="Default suite" finished-at="2022-07-27T00:29:23 AST" duration-ms="20029">
+    <groups>
+    </groups>
+    <test started-at="2022-07-27T00:29:03 AST" name="Default test" finished-at="2022-07-27T00:29:23 AST" duration-ms="20029">
+      <class name="ass1AbsoluteXPath.ChromWebDriver">
+        <test-method signature="LearnEnglishWebSite()[pri:0, instance:ass1AbsoluteXPath.ChromWebDriver@d83da2e]" started-at="2022-07-27T00:29:03 AST" name="LearnEnglishWebSite" finished-at="2022-07-27T00:29:23 AST" duration-ms="20009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LearnEnglishWebSite -->
+      </class> <!-- ass1AbsoluteXPath.ChromWebDriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
